@@ -8,6 +8,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoppm&layout=compact)](https:github.com/fernandoppm/github-readme-stats)
 
-#### 👇 Você pode me encontrar aqui 👇
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandoppm/)](https://www.linkedin.com/in/fernandoppm/)
