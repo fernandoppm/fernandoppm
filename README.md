@@ -1,4 +1,4 @@
-### Oiii! Eu sou Lucas Fernando 
+### Oiii! Eu sou Lucas Fernando 👋
 #### Bem vindo ao meu perfil 🧑‍💻
 
 ![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandoppm&show_icons=true&theme=dracula)
